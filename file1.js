@@ -1,4 +1,5 @@
-console.log(this);
-console.log(window);
+
+
+
+const  firstName = "Amit"
 console.log(firstName);
-var firstName = "Amit";
